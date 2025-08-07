@@ -1,0 +1,14 @@
+C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\Aprendiendo C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\Aprendiendo C#.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\Aprendiendo C#.AssemblyInfo.cs
+C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\Aprendiendo C#.csproj.CoreCompileInputs.cache
+C:\Users\Owner\workspace\Aprendiendo C#\bin\Debug\net9.0\Aprendiendo C#.exe
+C:\Users\Owner\workspace\Aprendiendo C#\bin\Debug\net9.0\Aprendiendo C#.deps.json
+C:\Users\Owner\workspace\Aprendiendo C#\bin\Debug\net9.0\Aprendiendo C#.runtimeconfig.json
+C:\Users\Owner\workspace\Aprendiendo C#\bin\Debug\net9.0\Aprendiendo C#.dll
+C:\Users\Owner\workspace\Aprendiendo C#\bin\Debug\net9.0\Aprendiendo C#.pdb
+C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\Aprendiendo C#.dll
+C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\refint\Aprendiendo C#.dll
+C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\Aprendiendo C#.pdb
+C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\Aprendiendo C#.genruntimeconfig.cache
+C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\ref\Aprendiendo C#.dll
