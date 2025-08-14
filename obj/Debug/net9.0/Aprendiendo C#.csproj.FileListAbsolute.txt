@@ -12,3 +12,4 @@ C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\refint\Aprendiendo C#.d
 C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\Aprendiendo C#.pdb
 C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\Aprendiendo C#.genruntimeconfig.cache
 C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\ref\Aprendiendo C#.dll
+C:\Users\Owner\workspace\Aprendiendo C#\obj\Debug\net9.0\Aprendiendo C#.sourcelink.json
